@@ -1,6 +1,7 @@
-<img  src="https://www.aaditritechnology.com/images/redesign.gif">
+
 <h1 align="center">Hi 👋, I'm Suraj Pawar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img  src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
+<h3 align="center">A Passionate Full Stack Developer from India<</h3>
  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
@@ -13,6 +14,8 @@
 - 🌱 I’m currently learning **** (Full-Stack Web Development)****
 
 - 💬 Ask me about **Front-End**
+ 
+ - 📫 How to reach me **surajpawar913@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
