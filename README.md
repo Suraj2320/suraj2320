@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **** (Full-Stack Web Development)****
 
-- 💬 Ask me about **Front-End**
+- 💬 Ask me about **MERN-STACK**
  
  - 📫 How to reach me **surajpawar913@gmail.com**
 
