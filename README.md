@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://suraj2320.github.io/) and [Resume](https://drive.google.com/file/d/1-Mbwarm4RU5fW_QFhZE8DGI_WUyuS3MP/view?usp=share_link)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React,Node**
 
 - 📫 How to reach me **surajpawar913@gmail.com**
 
