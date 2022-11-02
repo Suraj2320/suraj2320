@@ -20,8 +20,8 @@
 
 - 📫 How to reach me **surajpawar913@gmail.com**
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/sayedmajid04/)
-[![CodeSandBox Badge](https://img.shields.io/badge/CodeSandBox-Profile-black)](https://codesandbox.io/dashboard/drafts?workspace=01ce0933-d23a-4c86-9788-87c34448c680)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/suraj-pawar-42b773215/)
+[![CodeSandBox Badge](https://img.shields.io/badge/CodeSandBox-Profile-black)]([https://codesandbox.io/dashboard/drafts?workspace=01ce0933-d23a-4c86-9788-87c34448c680](https://codesandbox.io/u/suraj2320))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
