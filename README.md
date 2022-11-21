@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Suraj Pawar</h1>
 <img  src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
-<h3 align="center">A passionate frontend developer and backend developer from India.</h3>
+<h3 align="center">Passionate about implementing and launching new projects. I also posses the ability to translate business requirements into technical solutions. I am looking to start my career as a web-developer with a reputed firm driven by technology.</h3>
  <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
