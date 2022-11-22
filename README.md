@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suraj2320&show_icons=true&locale=en" alt="suraj2320" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj2320&" alt="suraj2320" /></p>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=Suraj2320&theme=xcode" height ="307"/>
