@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **MERN Stack**
 
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://suraj2320.github.io/) and [Resume](https://drive.google.com/file/d/1BtdJt_lgwG5atxnz1bjfiNVS9vQcNRrk/view?usp=share_link)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://suraj2320.github.io/) and [Resume](https://drive.google.com/file/d/1tNLN6wKZ_K3Q84HT1J_ozXFNQwbk__Uz/view?usp=share_link)
 
 - 💬 Ask me about **React,Node**
 
