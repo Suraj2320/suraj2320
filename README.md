@@ -39,4 +39,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suraj2320&" alt="suraj2320" /></p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Suraj2320&theme=xcode" height ="307"/>
+
